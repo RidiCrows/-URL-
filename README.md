@@ -30,22 +30,12 @@
   - 支持批量导出
   - 自适应移动端
 
-## 快速上手
-
-1. **安装依赖**
-
-   `npm install clipboard-lite jsoup `
-
-2. **使用示例**
-
-   `// M3U8提取器调用示例 const extractor = new M3U8Extractor('https://openani.an-i.workers.dev/'); extractor.on('ready', (url) => {   console.log('提取到的URL:', url); }); `
-
-3. **浏览器扩展**推荐使用Tampermonkey脚本管理器直接加载`.user.js`文件
-
 ## 部署指南
 
-1. 下载js文件
+1. 下载.uesr.js文件
 2. 导入油猴
+
+**浏览器扩展**推荐使用Tampermonkey脚本管理器直接加载`.user.js`文件
 
 ## 注意事项
 
