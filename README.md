@@ -1,48 +1,35 @@
-# URL提取工具合集
+# 🛠 自用 URL 提取脚本集合
 
-## 项目简介
+方便在不同设备快速使用和切换
 
-自用
-用于在VRCHAT里看番/视频用
+---
 
-## 核心功能
+## 📥 [openani.an-i.workers.dev](https://openani.an-i.workers.dev/)  
+**脚本：添加复制按钮到 Download 旁边 (无弹窗)**  
+  - 主要支持 **1080P 资源**
+  - **点击按钮** 提取
+  - 大概率需要 **翻墙** 才能使用
+  - **VRCHAT 播放器** 可用
 
-### 1. Static M3U8 Extractor (v2.4)
+---
 
-- **用途**：从`https://openani.an-i.workers.dev/`提取静态M3U8链接
-- **特色**：
-  - 大部分1080P资源
-  - 点击按钮提取
-  - 大概率需要魔法
-  - VRCHAT播放器可用
+## 🎬 [anime.girigirilove.com](https://anime.girigirilove.com/)  
+**脚本：Static M3U8 Extractor (Button Only) v2.4**  
+  - 支持大部分 **1080P 动漫资源**
+  - **点击按钮** 提取
+  - 大概率需要 **翻墙** 才能使用
+  - **VRCHAT 播放器** 可用
+---
 
-### 2. BiliBili云端解析（v0.2.6）
+## 📺 [Bilibili](https://www.bilibili.com/)  
+**脚本：BiliBili 云端解析（去掉 BV/AV 提取版） v0.2.6**  
+  - 支持修改 **可用云解析 URL**
+  - **VRCHAT 播放器** 可用
+---
 
-- **用途**：处理`https://www.bilibili.com/`视频链接
-- **特色**：
-  - 修改可以使用的云解析url
-  - VRCHAT播放器可用
+### 使用说明：
+1. 每个脚本会为目标网站提供特定功能，如视频链接提取、M3U8 链接获取等。  
+2. 将脚本添加到 [Tampermonkey](https://www.tampermonkey.net/) 中并启用，脚本会在页面加载时自动运行。  
+3. **点击按钮** 即可快速复制对应的 URL，免去手动操作的麻烦。  
 
-### 3. Girigirilove解析器
-
-- **用途**：提取`https://anime.girigirilove.com/`动漫资源
-- **特色**：
-  - 大部分1080P资源
-  - 点击按钮提取
-  - 大概率需要魔法
-  - VRCHAT播放器可用
-
-## 部署指南
-
-1. 下载.uesr.js文件
-2. 导入油猴
-
-**浏览器扩展**推荐使用Tampermonkey脚本管理器直接加载`.user.js`文件
-
-## 注意事项
-
-大部分脚本由AI生成
-
-## 开源协议
-
-本项目采用[MIT License](LICENSE)，欢迎贡献代码或提出改进建议。 
+---
