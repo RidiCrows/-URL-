@@ -16,7 +16,7 @@
 ## 🎬 [anime.girigirilove.com](https://anime.girigirilove.com/)  
 **脚本：Static M3U8 Extractor (Button Only) v2.4**  
   - 支持大部分 **1080P 动漫资源**
-  - **点击按钮** 提取
+  - **点击按钮** 提取 （更新拖动）
   - 大概率需要 **翻墙** 才能使用
   - **VRCHAT 播放器** 可用
 ---
